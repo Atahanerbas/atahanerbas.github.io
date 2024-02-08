@@ -1,4 +1,4 @@
-# ATOLOGICA
+#  <p align="center"> ATOLOGICA
 
 ## Who am I? 
 Atahan. I am interested in everything related to logic or philosophy. I share my life with a cat, her name is Nacho Beybi. 
