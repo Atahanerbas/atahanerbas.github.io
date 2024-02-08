@@ -1,7 +1,7 @@
-#  <p align="center"> ATOLOGICA
+# <p align="center"> KAYSERI MANTIGI
 
 ## Who am I? 
-Atahan. I am interested in everything related to logic or philosophy. I share my life with a cat, her name is Nacho Beybi. 
+Atahan. I am interested in everything related to logic or philosophy (inclusive disjunction). I share my life with a cat, her name is Nacho Beybi. 
 
 ## Who am I officially?
 Currently I am a PhD candidate at the Institute of Philosophy at KU Leuven under the supervision of Lorenz Demey and Stef Frijters. My PhD project is titled the philosophy of logical geometry. I draw Aristotelian diagrams. 
