@@ -20,6 +20,6 @@ Currently I am a PhD candidate at the Institute of Philosophy at KU Leuven under
  
 
 
-# Ideas
+## Ideas
 
 
