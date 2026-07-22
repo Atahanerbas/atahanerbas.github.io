@@ -1,4 +1,4 @@
-# Logic and Philosophy
+# Logic and Philosophy m
 
 ## Who am I? 
 Atahan. I am interested in everything related to logic or philosophy (inclusive disjunction). I share my life with a cat, her name is Nacho Beybi. 
